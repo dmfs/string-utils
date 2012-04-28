@@ -9,3 +9,6 @@ bin/
 
 # exported files
 jars/
+
+#imported libs
+libs/
